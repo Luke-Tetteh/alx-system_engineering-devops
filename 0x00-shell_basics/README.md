@@ -1,1 +1,3 @@
-a script that prints the absolute path name of the current working directory
+## Resources
+
+* [Permissions](http://linuxcommand.org/lc3_lts0090.php)
